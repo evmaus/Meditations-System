@@ -54,7 +54,7 @@ and then think about each independently, first looking backwards and then using 
 
 The process itself is fairly simple:
 
-0. Make a copy fo the "year_end_template" code to a new location, and rename it something more useful like "was-2020-any-good" or "2020-year-end-review".
+0. Make a copy of the "year_end_template" code to a new location, and rename it something more useful like "was-2020-any-good" or "2020-year-end-review".
 1. Start by identifying "Focus Areas" for your life. These are up to you--I have the ones I like in the "retrospective/focus_areas"
    folder, but you should pick your own if they don't resonate--mine have changed every few years. Have a focus area file for each
    area you're evaluating.
